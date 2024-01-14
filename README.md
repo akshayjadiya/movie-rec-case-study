@@ -1,5 +1,7 @@
 # Instructions to create the environment
 
+## Tested on python 3.9.6 and 3.9.12
+
 1. clone this repo in any folder of your comuter
 2. cd to the folder
 4. create a python environment using _python -m venv ./env_ the following command (this will create an environment named 'env' in the env folder in the current directory)
